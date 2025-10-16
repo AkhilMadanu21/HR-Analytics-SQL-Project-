@@ -46,6 +46,8 @@ group by department;
 
 ## Output:
 <img width="362" alt="image" src="https://github.com/user-attachments/assets/216eed75-9fa1-44a6-b290-c2270642fa3c" />
+<img width="225" height="255" alt="image" src="https://github.com/user-attachments/assets/e728c7da-77bd-4e54-83aa-d13d94a9d02b" />
+
 
 
 ## 2. Which employees earn more than their department’s average salary?
